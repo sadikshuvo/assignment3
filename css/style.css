@@ -1,0 +1,124 @@
+header {
+  width: 1100px;
+  height: 70px;
+  border-bottom: 1px solid black;
+  margin: auto;
+}
+.logoimg {
+  position: absolute;
+  padding: 3px;
+  float: left;
+  margin-left: 2%;
+  margin-top: 10px;
+}
+ul {
+  width: auto;
+  float: right;
+  margin-top: 8px;
+  padding-right: 40px;
+  list-style-type: none;
+}
+li {
+  display: inline-block;
+  padding: 15px 30px;
+}
+a {
+  text-align: center;
+  text-decoration: none;
+  color: darkblue;
+  font-size: 20px;
+}
+a:hover {
+  color: blue;
+}
+.cotainer1 {
+  width: 1100px;
+  height: 1250px;
+  padding: 30px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.amplify {
+  font-size: 60px;
+  color: rgb(11, 0, 128);
+  text-align: center;
+  margin-top: 0px;
+}
+.btfl {
+  font-size: 20px;
+  text-align: center;
+}
+.photo1 {
+  max-width: 100%;
+  display: block;
+  margin: auto;
+}
+.floatleft {
+  float: left;
+  width: 48%;
+  margin-left: 15px;
+}
+.k3 {
+  text-align: right;
+  color: red;
+  font-size: 50px;
+  margin-top: 40px;
+}
+.mission {
+  font-size: 20px;
+  text-align: right;
+}
+.floatright {
+  float: right;
+  width: 49%;
+}
+.sfulh {
+  color: rgb(99, 86, 158);
+  font-size: 50px;
+}
+
+.container2 {
+  width: 1100px;
+  display: block;
+  overflow: hidden;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.part1 {
+  width: 32.33%;
+  background-color: lightpink;
+  float: left;
+  margin-right: 1%;
+  border-radius: 10px;
+}
+.part2 {
+  width: 32.33%;
+  background-color: lightskyblue;
+  float: left;
+  margin-right: 1%;
+  border-radius: 10px;
+}
+.part3 {
+  width: 32.33%;
+  background-color: linen;
+  float: left;
+  margin-right: 1%;
+  border-radius: 10px;
+}
+.img5 {
+  max-width: 90%;
+  margin: 30px;
+  height: 250px;
+}
+.lasth {
+  color: #333;
+  text-align: center;
+}
+.lastp {
+  text-align: left;
+  margin-left: 40px;
+  margin-bottom: 20px;
+  color: #333;
+}
